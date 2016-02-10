@@ -1,7 +1,7 @@
 Those are my answers to the assignments on Deep Learning by Udacity
 
       Done 1_notmnist.ipynb
-      Not Done 2_fullyconnected.ipynb
+      Done 2_fullyconnected.ipynb
       Not Done 3_regularization.ipynb
       Not Done 4_convolutions.ipynb
       Not Done 5_word2vec.ipynb
