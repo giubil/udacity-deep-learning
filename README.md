@@ -3,7 +3,8 @@ Those are my answers to the assignments on Deep Learning by Udacity
       Done 1_notmnist.ipynb
       Done 2_fullyconnected.ipynb
       Done 3_regularization.ipynb 94% accuracy :D
-      Not Done 4_convolutions.ipynb
+      Done 4_convolutions.ipynb 95.2% accuracy Had to move it to assignement_4.py to run it on a server
+      Done assignement_4.py
       Not Done 5_word2vec.ipynb
       Not Done 6_lstm.ipynb
 
